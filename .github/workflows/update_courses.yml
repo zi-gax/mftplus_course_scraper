@@ -1,0 +1,49 @@
+name: Hourly Update MFTPlus Courses
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp pandas
+
+      - name: Run course updater
+        run: python update_courses.py
+
+      - name: Commit & Push only if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add mftplus_courses_async.csv
+          git add mftplus_courses_async.json
+          git add COURSE_LOG.md
+
+          # فقط اگر تغییر وجود داشت commit و push انجام شود
+          if ! git diff --cached --quiet; then
+            git commit -m "🆕 Automated update of new courses [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
