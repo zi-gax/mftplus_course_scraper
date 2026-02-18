@@ -101,20 +101,21 @@ def save_all(df, new_courses, expired_courses=[], revived_courses=[]):
     now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d %H:%M:%S")
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(f"\n<details>\n<summary>📊 Sync {now} 📈({len(new_courses)})|📉({len(expired_courses)})|♻️({len(revived_courses)})</summary>\n\n")
+        
         if new_courses:
-            f.write(f"\n<details>\n<summary>### 📈 New courses ({len(new_courses)})</summary>\n\n")
+            f.write(f"\n<details>\n<summary> 📈 New courses ({len(new_courses)})</summary>\n\n")
             for c in new_courses:
                 f.write(f"- [{c['title']}]({c['course_url']}) | {c['center']}\n")
             f.write("</details>\n")
 
         if expired_courses:
-            f.write(f"\n<details>\n<summary>### 📉 Expired courses ({len(expired_courses)})</summary>\n\n")
+            f.write(f"\n<details>\n<summary> 📉 Expired courses ({len(expired_courses)})</summary>\n\n")
             for c in expired_courses:
                 f.write(f"- [{c['title']}]({c['course_url']}) | {c['center']}\n")
             f.write("</details>\n")
 
         if revived_courses:
-            f.write(f"\n<details>\n<summary>### ♻️ Revived courses ({len(revived_courses)})</summary>\n\n")
+            f.write(f"\n<details>\n<summary> ♻️ Revived courses ({len(revived_courses)})</summary>\n\n")
             for c in revived_courses:
                 f.write(f"- [{c['title']}]({c['course_url']}) | {c['center']}\n")
             f.write("</details>\n")
@@ -124,16 +125,20 @@ def save_all(df, new_courses, expired_courses=[], revived_courses=[]):
 # ---------------- Main ----------------
 async def main():
     existing_df = load_existing()
+    now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d %H:%M:%S")
+
+    # existing IDs
     old_ids = set(existing_df["id"].astype(str)) if not existing_df.empty else set()
+    old_active_ids = set(existing_df.loc[existing_df["is_active"] == 1, "id"].astype(str)) if not existing_df.empty else set()
     old_inactive_ids = set(existing_df.loc[existing_df["is_active"] == 0, "id"].astype(str)) if not existing_df.empty else set()
 
+    # fetch API
     raw_courses = await fetch_all_courses()
     print(f"🎯 Total fetched: {len(raw_courses)}")
 
     # normalize API courses as active
     api_courses = []
     api_ids = set()
-    now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d %H:%M:%S")
     for c in raw_courses:
         course_id = c["id"]["$oid"]
         changed_at = now if course_id not in old_ids or course_id in old_inactive_ids else None
@@ -141,24 +146,33 @@ async def main():
         api_courses.append(normalized)
         api_ids.add(course_id)
 
+    api_df = pd.DataFrame(api_courses)
+
     # detect new courses
     new_courses = [c for c in api_courses if c["id"] not in old_ids]
 
-    # mark expired courses
+    # detect expired (was active, now missing)
     expired_courses = []
     if not existing_df.empty:
-        expired_ids = old_ids - api_ids
-        expired_df = existing_df[existing_df["id"].astype(str).isin(expired_ids)].copy()
-        expired_df["is_active"] = 0
-        expired_df["changed_at"] = now
-        expired_df["updated_at"] = now
-        expired_courses = expired_df.to_dict("records")
+        expired_ids = old_active_ids - api_ids
+        if expired_ids:
+            expired_df = existing_df[existing_df["id"].astype(str).isin(expired_ids)].copy()
+            expired_df["is_active"] = 0
+            expired_df["changed_at"] = now
+            expired_df["updated_at"] = now
+            expired_courses = expired_df.to_dict("records")
 
-    # detect revived (was inactive, now active)
+    # detect revived (was inactive, now back)
     revived_courses = [c for c in api_courses if c["id"] in old_inactive_ids]
 
-    # merge all
-    final_df = pd.DataFrame(api_courses + expired_courses)
+    # merge final dataset
+    final_df = existing_df.copy() if not existing_df.empty else pd.DataFrame()
+    # remove old active courses that are in API (we will append updated API courses)
+    final_df = final_df[~final_df["id"].astype(str).isin(api_ids)]
+    final_df = pd.concat([final_df, api_df], ignore_index=True)
+    # append expired courses
+    if expired_courses:
+        final_df = pd.concat([final_df, pd.DataFrame(expired_courses)], ignore_index=True)
 
     save_all(final_df, new_courses, expired_courses, revived_courses)
 
