@@ -3010,3 +3010,13 @@
 - [خبرنگاری حرفه ای در دنیای دیجیتال](https://mftplus.com/lesson/6088/خبرنگاری-حرفه-ای-در-دنیای-دیجیتال?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-20 16:43:18 📈(0) | 📉(1) | ♻️(0)</summary>
+
+<details>
+<summary>📉 Expired courses (1)</summary>
+
+- [طراحی مکانیکی به کمک CATIA I](https://mftplus.com/lesson/153718143/طراحی-مکانیکی-به-کمک-CATIA-I?refp=%D8%B4%D9%87%D8%B1%D9%82%D8%AF%D8%B3) | شهرقدس
+</details>
+</details>
