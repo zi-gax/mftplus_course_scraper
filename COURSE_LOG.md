@@ -3232,3 +3232,31 @@
 - [مدیریت پروژه حرفه ای – مبانی و نرم افزارهای کاربردی (PMBOK, MSP & Primavera P6)](https://mftplus.com/lesson/154012130/مدیریت-پروژه-حرفه-ای-–-مبانی-و-نرم-افزارهای-کاربردی-(PMBOK,-MSP-&-Primavera-P6)?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-21 11:09:55 📈(7) | 📉(1) | ♻️(3)</summary>
+
+<details>
+<summary>📈 New courses (7)</summary>
+
+- [کارگاه آموزش استفاده از پلتفرم آنلاین مجتمع فنی تهران](https://mftplus.com/lesson/4969/کارگاه-آموزش-استفاده-از-پلتفرم-آنلاین-مجتمع-فنی-تهران?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [Responsive & Bootstrap (Web Design II)](https://mftplus.com/lesson/6457/Responsive-&-Bootstrap-(Web-Design-II)?refp=%D8%AA%D9%87%D8%B1%D8%A7%D9%86%D9%BE%D8%A7%D8%B1%D8%B3) | تهرانپارس
+- [زبان آلمانی A1.1](https://mftplus.com/lesson/231412143/زبان-آلمانی-A1.1?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [Programming with Python](https://mftplus.com/lesson/5679/Programming-with-Python?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [پخت نانهای خمیر ترش](https://mftplus.com/lesson/6535/پخت-نانهای-خمیر-ترش?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+- [ICDL سطح یک و دو نوجوانان](https://mftplus.com/lesson/191412126/ICDL-سطح-یک-و-دو-نوجوانان?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [Programming with Python](https://mftplus.com/lesson/5679/Programming-with-Python?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+</details>
+<details>
+<summary>📉 Expired courses (1)</summary>
+
+- [طراحی وب سایت (Web Design Pack)](https://mftplus.com/lesson/6459/طراحی-وب-سایت-(Web-Design-Pack)?refp=%D8%B4%D9%87%D8%B1%D9%82%D8%AF%D8%B3) | شهرقدس
+</details>
+<details>
+<summary>♻️ Revived courses (3)</summary>
+
+- [دوره جامع محاسبات ساختمان : ETABS/SAFE سطح یک](https://mftplus.com/lesson/153812123/دوره-جامع-محاسبات-ساختمان-:-ETABS/SAFE-سطح-یک?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+- [بازرسی جوش (CWI) مطابق با AWS QC-1](https://mftplus.com/lesson/153612123/بازرسی-جوش-(CWI)-مطابق-با-AWS-QC-1?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+- [بازرسی چشمی جوش (VT) مطابق استاندارد AWS و مبحث دهم مقررات ملی ساختمان ایران](https://mftplus.com/lesson/6416/بازرسی-چشمی-جوش-(VT)-مطابق-استاندارد-AWS-و-مبحث-دهم-مقررات-ملی-ساختمان-ایران?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+</details>
+</details>
