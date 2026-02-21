@@ -3488,3 +3488,15 @@
 - [مدیریت برند](https://mftplus.com/lesson/4928/مدیریت-برند?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-21 19:04:38 📈(3) | 📉(0) | ♻️(0)</summary>
+
+<details>
+<summary>📈 New courses (3)</summary>
+
+- [تلفیقی Word+Excel 2021](https://mftplus.com/lesson/5976/تلفیقی-Word+Excel-2021?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [Microsoft Office Excel 2021](https://mftplus.com/lesson/5578/Microsoft-Office-Excel-2021?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [پردازش زبان طبیعی در هوش مصنوعی](https://mftplus.com/lesson/6365/پردازش-زبان-طبیعی-در-هوش-مصنوعی?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+</details>
+</details>
