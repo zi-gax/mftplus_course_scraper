@@ -3334,3 +3334,20 @@
 - [کارگاه بستن حسابها](https://mftplus.com/lesson/4273/کارگاه-بستن-حسابها?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-21 14:05:24 📈(8) | 📉(0) | ♻️(0)</summary>
+
+<details>
+<summary>📈 New courses (8)</summary>
+
+- [Move 11](https://mftplus.com/lesson/231712139/Move-11?refp=%D9%85%D8%B1%D9%86%D8%AF) | مرند
+- [Pre-Move2](https://mftplus.com/lesson/231712154/Pre-Move2?refp=%D9%85%D8%B1%D9%86%D8%AF) | مرند
+- [زبان انگلیسی B2.2](https://mftplus.com/lesson/231215292/زبان-انگلیسی-B2.2?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [PETS 1](https://mftplus.com/lesson/231717131/PETS-1?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [English advanced 4 for schoolers](https://mftplus.com/lesson/231717142/English-advanced-4-for-schoolers?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [English upper-intermediate 1 for schoolers](https://mftplus.com/lesson/231717144/English-upper-intermediate-1-for-schoolers?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [PETS 5](https://mftplus.com/lesson/231717135/PETS-5?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [مکالمه آزاد انگلیسی سطح پیشرفته 2](https://mftplus.com/lesson/5433/مکالمه-آزاد-انگلیسی-سطح-پیشرفته-2?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+</details>
+</details>
