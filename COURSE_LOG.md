@@ -4027,3 +4027,13 @@
 - [قانون کار](https://mftplus.com/lesson/5783/قانون-کار?refp=%D9%88%D9%86%DA%A9) | ونک
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-22 21:04:17 📈(1) | 📉(0) | ♻️(0)</summary>
+
+<details>
+<summary>📈 New courses (1)</summary>
+
+- [اصول سرپرستی](https://mftplus.com/lesson/4385/اصول-سرپرستی?refp=%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1) | اسلامشهر
+</details>
+</details>
