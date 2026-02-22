@@ -3,7 +3,7 @@ name: MFTPlus Params Updater
 on:
   # Run every 4 hours
   schedule:
-     - cron: '0 3 */5 * *'
+     - cron: '0 1 */5 * *'
   workflow_dispatch:  # allows manual trigger
 
 permissions:
