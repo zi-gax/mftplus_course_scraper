@@ -4005,3 +4005,15 @@
 - [3Ds Max Beginners to Advanced & V-Ray](https://mftplus.com/lesson/4542/3Ds-Max-Beginners-to-Advanced-&-V-Ray?refp=%D8%B4%D9%87%D8%B1%D9%82%D8%AF%D8%B3) | شهرقدس
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-22 19:03:59 📈(3) | 📉(0) | ♻️(0)</summary>
+
+<details>
+<summary>📈 New courses (3)</summary>
+
+- [مکالمه آزاد انگلیسی سطح متوسط 1](https://mftplus.com/lesson/5427/مکالمه-آزاد-انگلیسی-سطح-متوسط-1?refp=%D8%A8%DB%8C%D8%B1%D8%AC%D9%86%D8%AF) | بیرجند
+- [زبان اسپانیایی A1.3](https://mftplus.com/lesson/231612155/زبان-اسپانیایی-A1.3?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [چرخه کامل حسابداری شرکت های بازرگانی](https://mftplus.com/lesson/3868/چرخه-کامل-حسابداری-شرکت-های-بازرگانی?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+</details>
+</details>
