@@ -41,7 +41,6 @@ def extract_unique_urls_by_lessonid(csv_file):
         lesson_id = extract_lesson_id(link)
         if not lesson_id:
             continue
-
         if lesson_id in unique_ids:
             continue
 
@@ -57,13 +56,9 @@ def scrape_course(url):
 
     lesson_id = extract_lesson_id(url)
 
-    # title (ترجیحاً از h1 اگر بود)
-    title_tag = soup.find("h1")
-    if not title_tag:
-        title_tag = soup.find("title")
+    title_tag = soup.find("h1") or soup.find("title")
     title = title_tag.get_text(strip=True) if title_tag else ""
 
-    # description
     desc_tag = soup.select_one("div.forced-ellipsis p")
     description = desc_tag.get_text(" ", strip=True) if desc_tag else ""
 
@@ -74,28 +69,20 @@ def scrape_course(url):
 
     for h2 in soup.find_all("h2"):
         text = h2.get_text(strip=True)
+        ul = h2.find_next("ul", class_="custom-ul")
+        if not ul:
+            continue
+
+        items = [li.get_text(" ", strip=True) for li in ul.find_all("li")]
 
         if "پیش نیاز" in text:
-            ul = h2.find_next("ul", class_="custom-ul")
-            if ul:
-                prerequisites = [li.get_text(strip=True) for li in ul.find_all("li")]
-
+            prerequisites = items
         elif "سرفصل" in text:
-            ul = h2.find_next("ul", class_="custom-ul")
-            if ul:
-                curriculum = [li.get_text(strip=True) for li in ul.find_all("li")]
-
+            curriculum = items
         elif "کسب توانایی" in text:
-            ul = h2.find_next("ul", class_="custom-ul")
-            if ul:
-                skills_acquired = [li.get_text(strip=True) for li in ul.find_all("li")]
-
+            skills_acquired = items
         elif "بازار کار" in text:
-            ul = h2.find_next("ul", class_="custom-ul")
-            if ul:
-                career_opportunities = [
-                    li.get_text(" ", strip=True) for li in ul.find_all("li")
-                ]
+            career_opportunities = items
 
     return {
         "lesson_id": lesson_id,
@@ -108,7 +95,7 @@ def scrape_course(url):
         "url": url
     }
 
-# ---------------- MAIN ----------------
+# ---------------- MAIN (SCRAPER) ----------------
 def main():
     urls = extract_unique_urls_by_lessonid(CSV_FILE)
     print(f"🔗 {len(urls)} unique URLs found")
@@ -120,7 +107,7 @@ def main():
         try:
             data = scrape_course(url)
             results.append(data)
-            sleep(1)  # جلوگیری از بلاک شدن
+            sleep(1)
         except Exception as e:
             print(f"❌ Error scraping {url}:", e)
 
@@ -129,6 +116,80 @@ def main():
 
     print(f"\n✅ Saved {len(results)} courses to {OUTPUT_JSON}")
 
-# ---------------- RUN ----------------
+# ---------------- RUN SCRAPER ----------------
 if __name__ == "__main__":
     main()
+    
+CLEAN_OUTPUT_JSON = "courses_full_data.json"
+
+# پاک کردن کاراکترهای نامرئی و همه یونیکدهای غیر استاندارد
+INVISIBLE_CHARS = re.compile(r"[\u200e\u200f]")
+UNICODE_CLEAN = re.compile(r"[^\w\s\.,;:!?()؟،\-–—'\"/]+")
+MULTI_DASH = re.compile(r"-{3,}")
+NOISE_REGEX = re.compile(
+    r"""
+    ^\s*$ |
+    ادامه.* |
+    ^[-–—]+$ |
+    •
+    """,
+    re.VERBOSE
+)
+
+def normalize_string(text):
+    if text is None:
+        return None
+
+    # حذف کاراکترهای نامرئی اولیه
+    text = INVISIBLE_CHARS.sub("", text)
+    # حذف تمام یونیکدهای غیرمعمول
+    text = UNICODE_CLEAN.sub("", text)
+    text = text.replace("\t", " ")
+    text = MULTI_DASH.sub("", text)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    if not text or NOISE_REGEX.search(text):
+        return None
+
+    return text
+
+
+def clean_list(lst):
+    if not lst or not isinstance(lst, list):
+        return None
+
+    cleaned = []
+    for item in lst:
+        item = normalize_string(item)
+        if item:
+            cleaned.append(item)
+
+    return cleaned or None
+
+
+def clean_object(obj):
+    cleaned = {}
+    for k, v in obj.items():
+        if isinstance(v, list):
+            v = clean_list(v)
+        elif isinstance(v, str):
+            v = normalize_string(v)
+        cleaned[k] = v
+    return cleaned
+
+
+def run_cleaner():
+    if not os.path.exists(OUTPUT_JSON):
+        return
+
+    with open(OUTPUT_JSON, encoding="utf-8") as f:
+        data = json.load(f)
+
+    cleaned = [clean_object(item) for item in data]
+
+    with open(CLEAN_OUTPUT_JSON, "w", encoding="utf-8") as f:
+        json.dump(cleaned, f, ensure_ascii=False, indent=2)
+
+    print("🧹 Clean finished")
+
+run_cleaner()
