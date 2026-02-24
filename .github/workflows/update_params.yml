@@ -31,7 +31,8 @@ jobs:
 
       - name: Run Params update
         run: |
-          python filterparam-data/update_params.py
+          cd filterparam-data
+          python update_params.py
 
       - name: Commit & Push only if changed
         run: |

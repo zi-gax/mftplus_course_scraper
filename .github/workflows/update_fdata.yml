@@ -37,7 +37,8 @@ jobs:
       # ---------------- Run scraper ----------------
       - name: Run full courses scraper
         run: |
-          python courses-data/scrap_full_courses_data.py
+          cd courses-data
+          python scrap_full_courses_data.py
 
       # ---------------- Commit & Push if changed ----------------
       - name: Commit & Push only if changed
