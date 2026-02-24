@@ -1,0 +1,9 @@
+Dynamic Host Configuration Protocol (DHCP)
+Domain Name Service (DNS)
+Internet Protocol Address Management (IPAM)
+Routing and Remote Access Server (RRAS)
+File Server Resource Manager (FSRM)
+Distributed File System (DFS) and DFS-Replication
+Server Core
+IPSec
+IPv4 and IPv6

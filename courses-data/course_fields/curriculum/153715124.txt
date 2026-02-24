@@ -1,0 +1,23 @@
+استراتژي هاي پرداخت گوشه
+(Corner Finishing)
+Pattern ها ، ويرايش و کاربرد آنها
+استراتژي هاي
+Pattern Finishing
+Radial Finishing
+Spiral Finishing
+Parametric Offset Finishing
+3D Offset Finishing
+تعریف Feature Sets
+استراتژی سوراخ کاری (Drilling )
+تعریف استراتژي هاي 2.5D
+استراتژي هاي
+Surface Finishing
+Parametric offset Finishing
+Parametric spiral Finishing
+Flowline Finishing
+Steep and shallow Finishing
+Stock Model
+Level Sets
+برنامه نویسی 4 محوره
+ماشینکاری سطوح با شیب منفی
+بهینه سازی

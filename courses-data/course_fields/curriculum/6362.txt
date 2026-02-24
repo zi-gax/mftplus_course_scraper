@@ -1,0 +1,13 @@
+Active Directory Domain and Trust (ADDT)
+Active Directory Site and service (ADSS)
+Active Directory Certificate Service (ADCS)
+Active Directory Rights Management Services (ADRMS)
+Advance Active Directory Configuration
+Storage and Share
+Failover Clustering
+Network Load Balancing (NLB)
+Flexible Single Master Operations
+(FSMO) and Functional Levels
+Nested Groups
+Print Server
+Optional Extra

@@ -1,0 +1,10 @@
+Essential Bash Scripting for Pentesters
+Advanced Information Gathering Techniques
+Fuzzing and Exploiting Windows Applications
+Analyzing, Reconstructing and Porting Public Exploit Code
+Client side attacks reconstructed
+Understanding and Executing Password Attacks
+Reverse Tunneling and Exfiltration Techniques
+Web Application Attacks
+Developing Strong Metasploit Kung-Fu
+Porting Exploits to Metasploit

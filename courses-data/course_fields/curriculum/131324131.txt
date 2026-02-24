@@ -1,0 +1,29 @@
+JavaScript(new features in ES6)
+OOP In JavaScript
+Node.js/npm
+Webpack introduction
+Configuring webpack
+Output and Loaders
+Plugins
+modern JavaScript using ES6 ,npm,babel and webpack
+React-introduction
+React basics
+JSX
+React Components
+Class Based And Functional Components
+Props and Validating Props
+State
+React –Transitions and Animations
+Styling React Components Elements
+HOC's
+Pure Component
+Component Lifecycle
+React-Events
+Working with forms in React
+React-router
+Http Requests in React
+Working With lists and Keys
+React -refs
+Debugging React Apps
+Redux
+Build And Upload Project

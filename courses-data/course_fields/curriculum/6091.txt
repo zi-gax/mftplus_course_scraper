@@ -1,0 +1,10 @@
+Course Introduction
+vSphere and Virtualization Overview
+Installing and Configuring ESXi
+Deploying and Configuring vCenter
+Configuring vSphere Networking
+Configuring vSphere Storage
+Deploying Virtual Machines
+Managing Virtual Machines
+Deploying and Configuring vSphere Clusters
+Managing the vSphere Lifecycle

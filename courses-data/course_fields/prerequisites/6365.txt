@@ -1,0 +1,3 @@
+گذراندن دوره های زیر برای ورود به این دوره الزامی است.
+Machine Learning with Python
+Deep Learning with Python

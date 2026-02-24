@@ -1,0 +1,7 @@
+مجازی سازی در سطح سرور با Esxi
+مدیریت Data Center به کمک VCenter
+راه اندازی خصوصیات پیشرفته مثل HA , FT , VMotion , DRS , Storage DRS
+آشنایی با مفاهیم Storage و ذخیره سازی NAS/SAN
+طرز Backup گیری
+راه اندازی و کار با Vcenter Server Appliance (Linux based Vcenter)
+راه اندازی و کار با Virtual Networking , Vswitch

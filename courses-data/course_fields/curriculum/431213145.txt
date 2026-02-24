@@ -1,0 +1,51 @@
+درک مفهوم روند کاری Cinema 4D
+روند ساخت پروژه های سه بعدی
+حرکت در محیط سه بعدی CINEMA 4D
+آشنایی با رابط کاربری (User Interface)
+آشنایی و استفاده از Content Browser
+تنظیمات اولیه Project setting و Render Setting
+آشنایی با مدل های Primitive
+آشنایی با ابزار های مدل سازی Polygon
+آشنایی با Extrude و Inset
+آشنایی با Polygon Pen و Bridge
+آشنایی با انواع کات و Dissolve و Slide
+مدل سازی با استفاده از Subdivision Surface
+مدل سازی با Spline
+آشنایی با ابزار Lathe
+آشنایی با ابزار Loft
+آشنایی با Extrude و Sweep
+آشنایی با Generator ها در Cinema 4D
+آشنایی با مفهوم Volume
+نحوه ساخت مدل های پیچیده با Volume
+چگونگی کار با Key frame ها
+انمیت در Timeline
+کنترل انیمیشن با استفاده از f-Curve
+مفهوم Deformer ها
+معرفی Bend
+معرفی Bulge Sheer و Taper
+معرفی Twist
+معرفی Displacer
+معرفی Spline wrap
+استفاده از Field برای کنترل Deformer ها
+آشنایی با Cloner
+آشنایی با Effector ها
+آشنایی با Voronoi Fracture
+آشنایی با مفهوم داینامیک
+آشنایی با انواع داینامیک CPU و GPU
+آشنایی با Soft body و Balloon
+آشنایی با Rope
+آشنایی با سیستم Pyro
+آشنایی با سیستم Hair
+آشنایی با موتور رندر های مختلف
+آشنایی با Arnold
+ساخت متریال در Arnold
+آشنایی با سیستم Node در متریال های Arnold
+آشنایی با مفهوم نورپردازی
+آشنایی با انواع نور
+آشنایی با Gobo
+تکنیک های نورپردازی
+آشنایی با دوربین
+تکنیک های انیمیت دوربین
+آشنایی با سیستم Tracker
+کامپوزیت در After Effects
+خروجی

@@ -1,0 +1,4 @@
+مسلط به C.net
+مسلط به SQL Server
+مسلط به Html , CSS
+آشنایی با Web Design III (JavaScript JQuery Ajax)

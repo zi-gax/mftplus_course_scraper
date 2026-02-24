@@ -1,0 +1,21 @@
+Swift Types, Constants, and Variables
+Swift Operators and Expressions
+Swift Flow Control
+Switch
+Arrays
+Dictionaries and Sets
+Functions
+Enumerations
+Structs and Classes
+Properties
+Generics
+Understanding Error Handling in Swift
+The iOS Application and Development Architecture
+Creating First Interactive iOS App
+Handling Basic Interaction
+Rotation and Adaptive Layout
+Navigation and List
+Using Xcode SwiftUI to Create an iOS Tab Bar Application
+Working with Files in Swift on iOS
+iOS Database Implementation using SwiftData
+Saving, Loading, and Application States

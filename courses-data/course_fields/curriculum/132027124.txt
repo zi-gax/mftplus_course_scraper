@@ -1,0 +1,40 @@
+What is .net?(New features breaking changes in the last version)
+What is C.net?(New features breaking changes in the last version)
+IDE IDE types for .net (Visual Studio, VS Code, )
+What is Application?
+Application anatomy Application types (Monolithic, Coarse grained, Fine grained)
+Logic (Data, Algorithm, ) in Programming
+What are OOP Design Patterns?
+OOP Foundations(Name Conventions Encapsulation)
+Encapsulation Pattern in:
+using Data Algorithm(States Behaviors)
+using programming concepts (Class, )
+using State Behavior(Proxy design pattern introduction)
+Application Architecture (Tier, Layer,NameSpace,3Tier(Layer) Architecture, MVVM, )
+Class in detail (Constructor, )
+Parameter binding vs. Model binding
+C Syntaxes (Data structures control structures, )
+Lambda expressions LINQ
+Architecture concepts (Framework, Life-cycle, Flow, Pipeline, )
+Being Relationships (Inheritance, Implementation, Realization(Extension))
+Having Relationships (Composition, Aggregation, Association)
+Using Relationship (Static vs. non-Static) Extension Methods
+Polymorphism in detail (static, dynamic, parametric (Generic), ad hoc)
+Generic in detail
+Event Delegate
+Error in OOP Exception handling
+Connection concepts Architectures in programming
+I/O (Reading Writing to/from files)
+Serialization in .net
+FACADE design pattern
+What is ORM?(Mapping, Concepts, CodeFirst, )
+What is Entity Framework?
+Data Pipeline in the ORM (DTO Service EndPoint )
+Event Driven Programming
+Socket programming MultiThreading introduction
+Reflection introduction
+Our Future Plan (Web Programming .Net Full-Stack Platform)
+Action Driven Programming MVC Architecture Introduction
+ASP.net MVC Introduction
+Simple Monolithic CodeFirst Full CRUD Application as final project
+Simple refactoring project based on OOP as a final test

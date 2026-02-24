@@ -1,0 +1,11 @@
+شنایی کلی با زبان های برنامه نویسی و انواع آن
+تاریخچه JavaScript
+مقدمه
+Variables
+شرط ها
+Loops
+Function
+objects
+arrays
+بررسی کامل DOM
+کار با event ها و انواع آن

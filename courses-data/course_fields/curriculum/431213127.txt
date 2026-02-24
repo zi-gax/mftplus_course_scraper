@@ -1,0 +1,16 @@
+آشنایی با امکانات Photoshop
+تنظیمات اولیه رنگ مربوط به نرم افزار
+روش های ورود صحیح تصاویر به محیط نرم افزار و آرشیو آن ها
+آشنایی با نورها
+تنظیمات مرتبط با تصاویر سیاه و سفید
+آشنایی با تصاویر پانوراما
+آشنایی با ابزارهای Patch Healing brush
+آشنایی با ابزارهای Spot healing brush و Clone stamp
+کار با فیلتر های Blur , high pass
+کار با Mask , adjustments
+کار با Hue /saturation
+کار با liquefy filter/transform
+کار با curve / level /sharpening filter
+کار با color range , mask panel
+کار با پنل Camera RAW
+آشنایی روش مقایسه عکس اولیه با عکس ادیت شده

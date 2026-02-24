@@ -1,0 +1,12 @@
+Import کردن ویدئو(راش)
+طرز استفاده از پنجره project
+طرز کار با پنجره timeline
+آشنایی با toolbar timeline
+آشنایی با ترانزیشن های تصویری و صوتی و ویدئو افکت ها
+کروماکی (پرده سبز)
+آموزش سینک صدا و تصویر
+Title designer
+Multi camera (سوییچ تصاویر)
+Lumetri color
+نحوه خروجی گرفتن (export)از پروژه
+Rendering(red mod, yellow mod)

@@ -1,0 +1,8 @@
+طراحی و پیاده سازی انباره داده Data Warehouse
+انتقال داده به آن از طریق سرویس SQL Server Integration Service
+کار کردن با اجزا مختلف SQL Server Analysis Service
+پیاده سازی مدل Multi-Dimensional
+پیاده سازی مدل Tabular
+طراحی و پیاده سازی گزارشها و ساختن انواع داشبورد از طریق SQL Server Reporting Service
+طراحی و پیاده سازی گزارشها و ساختن انواع داشبورد از طریق SQL Server Power BI
+تسلط به تکنیکهای نگهداری و امنیت سرویس های BI

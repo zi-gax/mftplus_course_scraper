@@ -1,0 +1,10 @@
+توضیح مفهوم GI در نرم افزار در نرم افزار ۳DMAX
+توضیح روش های مختلف GI در V-RAY
+توضیح مفهوم Aliasing-Sampling-Filtering
+مدیریت رنگ ونور
+نورردازی و شناخت انواع سایه
+Material/Maps
+V-ray Caustic
+V-ray Meshes Modifiers
+Batch Rendering
+Panorama Exporter

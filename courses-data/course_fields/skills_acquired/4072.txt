@@ -1,0 +1,4 @@
+آشنایی و پیاده سازی مباحث Advance Static Routing
+آشنایی و پیاده سازی مباحث OSPF
+آشنایی و پیاده سازی مباحث Tunneling
+آشنایی با مباحث Switching و VLAN ها

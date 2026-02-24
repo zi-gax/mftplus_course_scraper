@@ -1,0 +1,12 @@
+Virtualization
+Installing Windows 11
+Network Connectivity
+Users, Groups and Profile
+Storage
+Managing Files and Printers
+Implementing Group Policy
+BIOS
+Security
+Troubleshooting and Recovery
+Maintaining Windows 11
+Remote Desktop

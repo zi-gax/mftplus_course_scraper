@@ -1,0 +1,2 @@
+دانشپذیر پس از پایان این دوره امکان درک عمیق و پیکربندی سرویس های پایه شبکه در سیستم عامل لینوکس مثل DNS و DHCP و Apache Web Server و Nginx Reverse Proxy و FTP Server را بطور کامل راه اندازی کنند همچنین مکانیزم عملکرد و پیاده سازی اولیه سرویس های احراز هویت OpenLDAP و فایل سرورهای NFS و SAMBA و
+میل سرور (Postfix, Dovecot, Round Cube) و تنظمیات iptables, routing را فرا خواهد گرفت.

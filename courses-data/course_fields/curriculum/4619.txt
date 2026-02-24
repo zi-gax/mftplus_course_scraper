@@ -1,0 +1,11 @@
+L2 Redundancy
+Routing Essentials and EIGRP
+OSPF
+BGP
+Multicast and QoS
+IP Services and VPNs
+Wireless Essentials
+Wireless Security and Connectivity
+Network Design and Monitoring
+Access Control and Infrastructure Security
+Virtualization, Automation and Programmability

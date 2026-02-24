@@ -1,0 +1,14 @@
+آشنایی با طراحی ریسپانسیو
+کار با مدیا کوئری ها
+کار با تصاویر
+آشنایی با Bootstrap
+Grid در بوتسترپ
+Component ها
+و
+utility ها
+در
+bootstrap
+آشنایی با Tailwind
+Responsive design with Tailwind
+ایجاد ساختار صفخه با tailwind
+آشنایی با utility ها

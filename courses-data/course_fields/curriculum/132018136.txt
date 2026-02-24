@@ -1,0 +1,73 @@
+Introduction:
+Java programming language and top features
+Java Editions: J2SE, J2EE, Java Android
+JDK, JRE and JVM
+Using Command Line to Compile Java
+Source files, byte Code files, class files
+IDE
+Install software:
+JDK8
+Intellij
+Java Core:
+Data Types (primitive, wrapper class, )
+Data type casting type conversion
+Parsing
+Operators
+Control Statements (if else, for, while, do while, switch case)
+Data Structures (Array, ArrayList, HashMap, HashSet, enum)
+Methods (define, call, pass value, return)
+Main method in java
+Command Line arguments in java
+Call by Value vs Call by Reference Definition
+Object Oriented Programming:
+Packaging and naming convention
+Definition of Class, Object
+Class elements (Attributes, Behaviors)
+Constructor, finalize
+Packaging and Access Modifier
+Encapsulation (getter setter)
+Inheritance
+super, this Keyword
+Overriding method
+Abstraction
+Interface
+final Keyword
+Polymorphism
+static Keyword
+Definition of Object class
+Object class methods (equals, clone, toString, )
+Exceptions:
+Exceptions
+Exception Handling (throws, throw)
+java IO:
+Java files
+Write to file
+Read from files
+Database concepts:
+Oracle installation
+Creating user, table, sequence, view in oracle
+Introduction to SQL language
+CRUD (insert, update, delete, select)
+Transaction and Report
+SQL injection
+Connect to db and Manipulate db by JDBC
+Connection
+PreparedStatement
+ResultSet
+Execute SQL statements in Java
+GUI:
+Java FX
+Additional:
+Design Patterns (builder, factory, singleton)
+MVC
+Thread, Thread lifecycle, multithreading
+Serialization
+AutoClosable, Clonable, Serializable, Runnable
+Annotations, Make Annotation
+xml
+json
+Generic
+Function programming
+lambda Expression
+consumer, supplier in java 8
+Final Project

@@ -1,0 +1,30 @@
+final Keyword
+Overriding method
+Definition of Object class
+data type casting type conversion
+Parsing
+Exceptions
+Thread, Thread lifecycle, multithreading,
+Thread synchronization, synchronized keyword
+Runnable Interface (Thread)
+serialization
+java IO, java Files , read from file, write new file
+Annotations , Make Annotation
+xml , xml parser ..
+json
+java Reflection
+Generic
+lambda Expression, function programming
+consumer, supplier in java 8
+RMI (remote method invocation)
+Introduction to database concepts
+JDBC
+oracle installation, creating user , table, sequence in oracle db.
+introduction to SQL language ;insert update delete select
+transaction
+sql injection
+introduction to pl sql
+call procedures(pl_sql) in java
+Swing
+introduction to java FX
+cryptography, type of cryptography, encryption algorithms

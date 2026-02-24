@@ -1,0 +1,61 @@
+Desktop APP VS.Web APP
+What is Socket Programming?
+What is Multi Threading?
+Web Foundation
+What is ASP.net
+Event driven Action driven
+Webform VS.MVC
+MVC Architecture
+Action in MVC (Controller Action)
+View Concepts(Basic Advanced Concepts)
+Model in MVC
+ORM
+EF in detail
+EF Types( Db Code Model First)
+SOLID Design Patterns
+Respository Design Pattern
+Unit Of Work Design Pattern
+Open Standards in detail ( HTML.CSS.Jquery,)
+UI Components Like Kendo ,
+Rond Trip architecture VS . Single page Architecture
+What IS Ajax?
+Final project Data Entry
+Security in Web
+Security in asp.net MVC
+OWIN
+Identity In detail
+Final Project :
+Full Data Entry
+Single Page Architecture
+UI Components
+Security ( Auttentication Auttority)
+net Web API
+api vs .webservice
+SOA in detail
+SOP in detail
+HTTP VS .SOAP
+What is Restful?
+What is asp.net Web Api?
+Web Service VS .Web Client
+Angular Type Script
+Node .js VS .React
+Fiddler
+Postman
+Create real Web Service With asp.net Web API
+Create real Web Client With Angular Node.js
+Create real Web Client With Asp.net MVC
+SOLID in SOA and Web API
+Repository and Unit OF Work in SOA and Web API
+IOS in SOA and WEB API
+Security IN SOA
+Identity FrameWORK in ASP.NET Web API
+SOA asp.net Web API Deployment
+Introduction to Data warehouse
+Introduction to Data warehouse
+Control Flow
+Source and Destination
+Variables, Parameters, Expressions
+Data Flow Tasks
+Data Flowابزارهای پیشرفته در ساخت
+Installing SSIS and Deploying Packages
+Events and Error Handlin

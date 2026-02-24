@@ -1,0 +1,14 @@
+معرفی مفاهیم پایه طراح وب
+معرفی HTML
+معرفی CSS
+معرفی grid css
+معرفی property های grid
+معرفی SASS
+معرفی bootstrap 5
+معرفی tailwind css 3 و نحوه دانلود و نصب آن
+گیت و گیت هاب
+نحوه تبدیل فیگما به html , css
+JavaScript
+JQuery
+AJAX
+مقدمه ای بر REACT

@@ -1,0 +1,6 @@
+آشنایی با معماری سه لایه access, Core- Distribution
+آشنایی عمیق و کاربردی با مباحث لایه ۲ شبکه و Switching
+آشنایی عمیق و پیشرفته با مباحث لایه ۳ و Roting اعم از OSPF , EIGRP , BGP
+شرکت در آزمون بین المللی شرکت سیسکو
+350-401 Inplementing and operating Cisco Enterprise Network Core Technologies (ENARSI)
+300-410 Inplementing Cisco Enterprise Advanced Routing Services (ENARSI)

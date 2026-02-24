@@ -1,0 +1,58 @@
+Planning and deployment:
+Exchange architecture
+Exchange Server system requirements
+Prepare Active Directory and domains for Exchange Server
+Prepare Exchange Server
+Install Exchange Mailbox server
+Recipient:
+User Mailboxes
+Linked Mailbox
+Shared Mailboxes
+Resource Mailboxes
+System Mailboxes
+Microsoft 365
+Post Master
+Distribution Group
+Dynamic Distribution Group
+Mail Contact
+Mail User
+Client:
+Outlook on the web
+MAPI over HTTP
+POP3 and IMAP4
+POP3s, IMAP4s and SMTPs
+Client Access Rules
+Mail Flow:
+Connectors on Exchange servers
+Accepted domains
+Receive Connectors
+Send connectors
+Message tracking
+Delivery Report
+Message size and recipient limits
+Mail Flow Rules
+Email addresses and address books:
+Address lists
+Email Address Policy
+Offline Address Books
+Address Book Policy
+Policy and Compliance:
+Journaling
+Messaging Records Management
+Retention
+Archiving
+In-Place Archiving
+Data Loss Prevention
+Collaboration:
+Public Folder
+Shared mailboxes
+MailTips
+Add-ins
+Disconnected mailboxes:
+Disconnected mailbox
+Disabled mailboxes
+Soft-deleted mailboxes
+Connecting a disabled mailbox
+Permanently deleting a disabled mailbox
+Working with disabled archive mailboxes
+Working with soft-deleted mailboxes

@@ -1,0 +1,10 @@
+معرفی توانایی های نرم افزار و آشنایی با محیط کاربری و کار با آن
+آموزش کار با zsphere و polygroupsو ایجاد حجم اصلی و توپولوجی
+آشنایی با انواع brushes و strokes و alphas و اصول اسکاپتینگ
+آشنایی با deformation و تکنیک های ساخت nonorganic objects
+آشنایی با اصول تکسچرینگ توسط poly painting و spot light
+آشنایی با clipping brush , shadow box
+آشنایی با dyna mesh , projection
+آشنایی با متریال ، نور و رندرینگ morph و layout timelines
+آشنایی با zmapping و نحوه خروجی و تعامل با دیگر نرم افزارها
+اجرای پروژه

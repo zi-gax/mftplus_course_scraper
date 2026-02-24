@@ -1,0 +1,4 @@
+استفاده از Revit بهعنوان پایگاه داده پروژه
+Shared Parameters vs Project Parameters (تصمیم استراتژیک)
+Data Validation در Revit
+آمادهسازی مدل برای Quantity AutomationCost ControlDigital Twin

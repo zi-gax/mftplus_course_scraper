@@ -1,0 +1,6 @@
+برنامه نویسی شیئ گرا (OOP)
+انیمیشن (Animation)
+صدا گذاری بازی (Sound Master)
+یو آی بازی (User Interface)
+افکت های بازی (Visual Effects)
+پارتیکل سیستم (Particle System)

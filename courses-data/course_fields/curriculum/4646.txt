@@ -1,0 +1,61 @@
+Database(Microsoft SQL Server):
+1. Data resource Database
+2. DBMS RDBMS
+3. SQL no SQL
+4. SQL Server Database Engine service SQL Server clients (SSMS, VSCode, Azure Data Studio)
+5. T-SQL in details(States Behaviors in T-SQL, ).
+6. Data Validation (data types, constraints)
+7. CRUD Select in detail
+8. Normalization concepts
+9. Function Stored Procedure
+10. Transaction concepts (Commit, Rollback, Try, Catch, )
+ORM( Entity Framework ) :
+11. FACADE design pattern
+12. What is ORM?(Mapping, Concepts, CodeFirst, )
+13. What is Entity Framework?(New features breaking changes in the last version)
+14. Database concepts vs. EF concepts
+15. Data Pipeline in the ORM (DTO Service EndPoint )
+16. DTO property Types (Field, Navigation )
+17. DTO Configuration types (Name Type Convention, DataAnnotation Attributes, Fluent Api)
+18. Database Relationships in EF(Principles, Dependants, Relationship fixup, )
+19. OOP Relationships(OwnedType,Table Splitting,Table Per Hierarchy,Table Per Type,Hierarchy, )
+20. Dbcontext in detail(DbSet, OnModelCreating(), )
+21. EF Configuration Methods(Compilation(dbcontext.cs) vs. Reflection(appsetting.json) )
+22. Migration process types
+23. Query vs NonQuery
+24. CRUD with EF( Repository design pattern, Unit Of Work design pattern )
+25. EntityStates(Added, Unchanged, Modified, Deleted, Detached )
+26. Query in LINQ (general for LINQ, dedicatedly for EF)
+27. QueryTypes in EF(AsNoTracking(ReadOnly), Normal (RW))
+28. Global Query Filters(HasQueryFilter(), IgnoreQueryFilters())
+29. Loading Related Data(Eager, Explicit, Select, Lazy)
+30. Hierarchical Tree Traveling ( Include() )
+31. Filtering Types(Client evaluation(Client) vs. Server evaluation(SQL Server)
+32. Fetching Scenarios( Find(), First(), )
+33. Update in EF (Detect changes by EF, Tracking Snapshot, INotifyPropertyChanging)
+34. Update Scenarios (Connected, Disconnected)
+35. Delete Scenarios (Soft Delete vs. Hard Delete)
+ASP.net:
+36. Why web applications?
+37. Web foundation (Network concepts, Layers, Protocols, Socket programming, ).
+38.Event driven vs. Action driven (Why MVC architecture?).
+39. What is ASP.net?(New features breaking changes in the last version).
+40. Application anatomy of web applications in .net (Monolithic, Coarse-Grained, Fine-Grained).
+41. DDD Testing concepts (Clean architecture, Defensive programming, TDD, BDD, Unit testing, etc.).
+42.Open standards concepts (HTML, CSS, Java Script).
+43.SOLID principles.
+44.IOC concepts (IOC Container, Service lifetimes, etc.).
+45.Request pipeline and data pipeline concepts (POCO,End point, DTO, Service, etc.).
+46.ASP.NET MVC Architecture in detail (Middleware, Model, View, Controller, etc.).
+47. Razor view engine Html helpers.
+48.(Multi Pages) Round trip architecture vs. Single page architecture.
+49. SOA Microservices architecture concepts (api, web service, REST, BFF, BFB, Postman, etc.).
+50. Security concepts (OWIN, Identity Framework, AAA, Two-Factor Auth, Google Auth, JWToken, etc.).
+51. Consuming REST APIs in frontend applications
+52. Final Full CRUD monolithic architecture OnlineShop Application git concepts.
+53. Final Full CRUD SOA OnlineShop Application with postman.
+54.How to publish a web application?
+55.RazorPages Introduction.
+56. Blazor Introduction.
+57. Xamarin Introduction.
+58. .Net MAUI Introduction

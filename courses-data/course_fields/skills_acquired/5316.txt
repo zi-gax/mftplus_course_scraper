@@ -1,0 +1,5 @@
+تسلط بر سرویس Database Engine به عنوان سرویس پایه RDBMS شرکت مایکروسافت
+آشنایی و کار با Clientهای مخصوص کار و مدیریت SQL Server به ویژه سرویس Database Engine مانند SSMS(SQL Server Management Studio), Azure Data Studio
+توانایی برنامه نویسی با زبان T-SQL
+توانایی تهیه عناصر داده ای و تابعی مورد نیاز نرم افزارها براساس زبان T-SQL تسلط بر کار با (Shared Procedure, Function)
+توانایی تهیه گزارش های متنوع از بانک اطلاعاتی

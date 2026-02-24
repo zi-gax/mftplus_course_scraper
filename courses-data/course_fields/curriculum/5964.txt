@@ -1,0 +1,88 @@
+آشنایی با ساخت Data Warehouse در SQL Server:
+آشنایی با بانکهای اطلاعاتی OLTP و ویژگیهای مربوط به آن
+آشنایی با مفهوم Data Warehouse
+آشنایی با مفهوم Data Mart
+آشنایی با نحوه طراحی Data Warehouse
+آشنایی با روش طراحی Data Warehouse به روش Kimball
+آشنایی با روش طراحی Data Warehouse به روش Inmon
+آشنایی با طراحی Data Warehouse به صورت Star Schema
+آشنایی با طراحی Data Warehouse به صورت Snow Flake Schema
+آشنایی با طراحی Data Warehouse به صورت Constellation Schema
+آشنایی با جداول Dimension و انواع آن
+آشنایی با جداول Fact و انواع آن
+آشنایی با مفهوم Grain
+آشنایی با مفهوم Measure و انواع مربوط به آن
+آشنایی با مفهوم Surrogate Key و Business Key
+آشنایی با نحوه ایجاد Dimension برای کار با تاریخ شمسی
+آشنایی با نحوه ایجاد Dimension برای کار با زمان
+ایجاد Dimension نقاط جغرافیایی (استان، شهر، طول و عرض جغرافیایی)
+آشنایی با مفهوم Slowly Change Dimension و انواع پیادهسازیهای مربوط به آن
+بررسی نحوه ایجاد یک Data Warehouse به ازای یک بانک اطلاعاتی OLTP
+آشنایی با Columnstore Index و نحوه ایجاد آن برای افزایش سرعت جداول Fact
+بررسی کامل فرآیند ETL و استفاده از آن در SQL Server:
+بررسی مفهوم ETL
+معرفی برنامه SQL Server Data Tools و آشنایی با محیط آن
+بررسی سرویس SQL Server Integration Services
+آشنایی با کامپوننت Control Flow Task
+آشنایی با کامپوننتهای Data Preparation (Data Profiler,File System,FTP,Web Service,XML)
+آشنایی با کامپوننتهای RDBMS Task (Bulk Insert, Execute SQL)
+آشنایی با کامپوننتهای Workflow Task (Execute Package,Execute Process,Send Mail,WMI)
+آشنایی با Containerها و نحوه استفاده از آنها در Packageها
+آشنایی با کامپوننت Data Flow Task
+آشنایی با کامپوننتهای مربوط به Data Source (OLEDB ,Flat File, Excel ,)
+آشنایی با کامپوننتهای مربوط به Data Destination (OLEDB ,Flat File, Excel ,)
+آشنایی با کامپوننتهای Data Transformation (Lookup, Aggregate,Merge,Copy Column,Sort ,)
+آشنایی با Script Components
+بررسی نحوه کار کردن با Variable, Expression, Parameter
+آشنایی با Fuzzy Lookup و Fuzzy Grouping
+آشنایی با CDC و نحوه پیکربندی آن
+آشنایی با نحوه استفاده از CDC برای تشخیص تغییرات رکوردها در Package
+آشنایی با نحوه مدیریت Errorها و Event Handling در SSIS
+آشنایی با DTC و نحوه استفاده از آن در Packageها (کنترل Transaction)
+آشنایی با روشهای افزایش سرعت اجرای Packageهای SSIS
+آشنایی با تکنیکهای پر کردن جداول Fact
+آشنایی با تکنیکهای پر کردن جداول Dimension
+آشنایی با نحوه Deploy کردن Packageها
+آشنایی با نحوه خودکار سازی فرآیند اجرای Packageها
+بررسی فرآیند ساخت OLAP در SQL Server:
+آشنایی با مدل BI مایکروسافت (Multidimensional Model, Tabular Model)
+آشنایی با سرویس SSAS و نحوه پیکربندی آن
+بررسی نحوه استفاده از Data Tools برای ایجاد یک پروژه بر پایه Multidimensional Model
+بررسی نحوه استفاده از Data Tools برای ایجاد یک پروژه بر پایه Tabular Model
+آشنایی با قسمتهای مختلف یک پروژه SSAS
+آشنایی با Data Source
+آشنایی با Data Source View
+بررسی نحوه طراحی Dimensionها
+بررسی کار با Attribute , Attribute Relationalships, Use Hierarchy
+بررسی نحوه Browse کردن دادههای موجود در Dimension
+بررسی نحوه مرتبسازی Dimensionها
+بررسی ایجاد Dimensionهایی از نوع Snowflake
+بررسی ایجاد Parent-Child Hierarchy
+بررسی نحوه کار با Unary Operator
+بررسی تنظیمات مربوط به Storage Mode
+بررسی نحوه ایجاد Cube
+بررسی نحوه ایجاد Measure و Measure Group
+بررسی نحوه ایجاد Calculationها
+بررسی نحوه ایجاد Perspective
+بررسی نحوه ایجاد Translation
+بررسی نحوه ایجاد KPI
+آشنایی با نحوه امن کردن CUBE
+بررسی نحوه Process یک Cube
+بررسی پارتیشنبندی CUBE
+بررسی نحوه افزایش سرعت پردازش CUBE
+بررسی فرآیند خودکار سازی پردازش یک Cube
+بررسی نحوه Deploy کردن یک پروژه OLAP
+بررسی نحوه Backup و Restore کردن یک بانک اطلاعاتی از نوع OLAP
+آشنایی با عبارتهای MDX
+اجرای فرآیند Visualization و مصورسازی دادهها در SQL Server:
+بررسی نحوه کار با Pivot Table در اکسل و ارتباط آن با OLAP
+بررسی کار با SSRS و نحوه راهاندازی آن
+بررسی نحوه استفاده از Matrix Report
+بررسی نحوه ایجاد KPI در SSRS
+بررسی تنظیمات امنیتی در SSRS
+بررسی نحوه استفاده از Power BI
+بررسی نحوه نمایش گزارشات Power BI در SSRS
+بررسی کار Mobile Report Publisher و نحوه استفاده از آن
+بررسی نحوه استفاده از Shape فایل نقشه ایران
+بررسی نحوه استفاده از Bing Map برای نمایش شهرهای ایران
+معرفی کامپوننتهای مربوط به گزارشگیری با پشتیبانی از OLAP

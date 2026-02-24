@@ -1,0 +1,57 @@
+Introduction to Django:
+What Is a Web Framework?
+The MVC Design Pattern
+Installing Django
+Setting Up a Database
+Using Django with PostgreSQL
+Using Django with SQLite 3
+Using Django with MySQL
+Using Django Without a Database
+Starting a Project
+The Development Server
+:The Basics of Dynamic Web Pages
+Your First View: Dynamic Content
+Mapping URLs to Views
+How Django Processes a Request
+URLconfs
+404 Errors
+Dynamic URLs
+Djangos Pretty Error Pages
+:The Django Template System
+Template System Basics
+Using the Template System
+Basic Template Tags and Filters
+Philosophies and Limitations
+Using Templates in Views
+Template Loading
+Template Inheritance
+:Interacting with a Database: Models
+Database Queries in Views
+The MTV Development Pattern
+Configuring the Database
+Your First App
+Defining Models in Python
+Your First Model
+Installing the Model
+Basic Data Access
+Inserting and Updating Data
+Selecting Objects
+Deleting Objects
+Making Changes to a Database Schema
+:The Django Administration Site
+Activating the Admin Interface
+Using the Admin Interface
+:Form Processing
+Search
+The Perfect Form
+Creating a Feedback Form
+Processing the Submission
+Creating Forms from Models
+:Generating Non-HTML Content
+The basics: views and MIME-types
+Producing CSV
+Generating PDFs
+:Sessions, Users, and Registration
+Users and Authentication
+:Deploying Django
+Using Django with nginx

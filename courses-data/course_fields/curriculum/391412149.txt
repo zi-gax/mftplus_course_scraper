@@ -1,0 +1,34 @@
+آشنایی با نرمافزارهای طراحی
+آشنایی با محیط Rhinoceros
+آشنایی با روشهای طراحی دوبعدی و نقشهکشی در Rhinoceros
+آشنایی با ابزارهای سهبعدی یک و دو
+آشنایی با اصول و مبانی رندر
+پروژه نهایی
+آشنایی با محیط راینو
+نوار عنوان راینو (Title bar)
+نوار Menu bar
+نماها و دریچههای دید
+انواع Select
+ویرایش لایهها
+سربرگ Transform
+نحوه ترسیم انواع Point
+ترسیم انواع خط
+:Command Prompt (Status bar)
+Standard Toolbar
+Import, Export, undo, View Change, View Port
+Visibility tools
+pan, rotate, zoom
+Main Toolbar یک
+Main Toolbar دو
+Standard Toolbar
+Polylines, circle, arc, polygon
+Curves, ellipse, rectangular
+Move, copy, rotate, scale, array, twist, smooth, bend, taper, shear, flow along curve, flow along surface
+Curve Tools: fillet curve, chamfer curve, blend curve, offset curve, fillet corner, extract sub curve sub curve, close curve, twin curve, curve from two view
+tapered, ext st along curve, ext curve along curve, ext curve to point, boss, rib
+Surface creation: surface from 3 or 4 corner point, surface from 3 or 4 edge curve, surface from planer curve, surface from net workبه همراه تنظیمات
+Solid Tools: Boolean union, Boolean difference, Boolean intersection, Boolean spilt create solid, shell, cap, extrude surface
+Merge variable radius fillet, variable radius chamfer move face, extrude face, split planer face fold planar, turn on solid control point
+Surface tools: fillet surface chamfer surface, extend surface, point on surface, smash surface, divide surface, offset surface analyze direction surface, rebuild surface, connection surface, merge surface
+Curve from object: project curve, duplicate edge, extract isocurve
+Extract wireframe, object intersection, blend perpendicular

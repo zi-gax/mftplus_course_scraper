@@ -1,0 +1,21 @@
+SecurityCompare Security Roles and Security Controls
+Explain Threat Actors and Threat Intelligence
+Perform Security Assessments
+Identify Social Engineering and Malware
+Summarize Basic Cryptographic Concepts
+Implement Public Key Infrastructure
+Implement Authentication Controls
+Implement Identity and Account Management Controls
+Implement Secure Network Designs
+Implement Network Security Appliances
+Implement Secure Network Protocols
+Implement Host Security Solutions
+Implement Secure Mobile Solutions
+Summarize Secure Application Concepts
+Implement Secure Cloud Solutions
+Explain Data Privacy and Protection Concepts
+Perform Incident Response
+Explain Digital Forensics
+Summarize Risk Management Concepts
+Implement Cybersecurity Resilience
+Explain Physical SecurityIncident Management Data Protection and Host Security

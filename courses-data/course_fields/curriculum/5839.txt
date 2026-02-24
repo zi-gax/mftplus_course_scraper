@@ -1,0 +1,15 @@
+آمـوزش SQL Server Internals
+آموزش ساخت دیتابیس و کار با SQL Server ، طراحی دیتا مدل
+معرفی اشیاء پایگاه داده
+آمـوزش دستورالعمل های بنیادیT-SQL
+انواع محدودیت CONSTRAINTS
+آمـوزش بازیابی دیتا از چند جدول
+آمـوزش انـواع SubQuery
+نمایه ها(VIEWS)
+آمـوزش Trigger
+ذخیره سازی SQL SERVER و ساختارهای INDEX
+اسکریپت نوشتن و BATCHES
+آمـوزش Scalar Functions
+آمـوزش مدیریت درخت ها در SQL Server
+آمـوزش Stored Procedures
+تراکنش و قفل ها (TRANSACTIONS AND LOCKS)

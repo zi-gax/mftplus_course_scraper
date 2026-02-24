@@ -1,0 +1,55 @@
+Introduction
+Protocols and ports
+Devices, Applications, Protocols, and Services at Each OSI Layers
+Devices, Applications, Protocols, and Services at Each TCP/IP Layers
+Concepts and Characteristics of Routing and Switching
+Internet Protocol Addressing
+Network Topologies
+Wireless Technologies and Configurations
+Cabling
+Appropriate placement of Networking devices on a network.
+Networking Attacks
+Configuration and Commands
+Virtualization
+Installing Windows 11
+Network Connectivity
+Users, Groups and Profile
+Storage
+Managing Files and Printers
+Implementing Group Policy
+BIOS
+Security
+Troubleshooting and Recovery
+Maintaining Windows 11
+Remote Desktop
+Virtualization
+Installing, Upgrading, and Migrating servers and workloads
+Active Directory
+Account and Profile
+Group Policy
+Backup and Recovery
+Monitoring
+Dynamic Access Control (DAC) and NIC Teaming
+Internet Information Services (IIS)
+Dynamic Host Configuration Protocol (DHCP)
+Domain Name Service (DNS)
+Internet Protocol Address Management (IPAM)
+Routing and Remote Access Server (RRAS)
+File Server Resource Manager (FSRM)
+Distributed File System (DFS) and DFS-Replication
+Server Core
+IPSec
+IPv4 and IPv6
+Active Directory Domain and Trust (ADDT)
+Active Directory Site and service (ADSS)
+Active Directory Certificate Service (ADCS)
+Active Directory Rights Management Services (ADRMS)
+Advance Active Directory Configuration
+Storage and Share
+Failover Clustering
+Network Load Balancing (NLB)
+Flexible Single Master Operations
+(FSMO) and Functional Levels
+Nested Groups
+Print Server
+Optional Extra
