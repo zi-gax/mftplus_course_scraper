@@ -14,8 +14,8 @@ PAGE_SIZE = 9
 MAX_CONCURRENCY = 5
 MAX_EMPTY_PAGES = 2
 
-CSV_FILE = "mftplus_courses_async.csv"
-JSON_FILE = "mftplus_courses_async.json"
+CSV_FILE = "mftplus_courses_filter.csv"
+JSON_FILE = "mftplus_courses_filter.json"
 LOG_FILE = "COURSE_LOG.md"
 
 HEADERS = {

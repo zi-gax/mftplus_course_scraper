@@ -1,7 +1,7 @@
 name: MFTPlus Params Updater
 
 on:
-  # Run every 4 hours
+  # Run every 5 days at 1:00 AM
   schedule:
      - cron: '0 1 */5 * *'
   workflow_dispatch:  # allows manual trigger
@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Params update
         run: |
-          python update_params.py
+          python data/update_params.py
 
       - name: Commit & Push only if changed
         run: |

@@ -11,9 +11,12 @@ HEADERS = {
 }
 TIMEZONE = ZoneInfo("Asia/Tehran")
 
-PATH_PLACES = "data/places.json"
-PATH_DEPARTMENTS = "data/departments.json"
-
+PATH_PLACES = "places.json"
+PATH_DEPARTMENTS = "departments.json"
+PATH_COURSES = "data/courses.json"
+PATH_GROUPS = "data/groups.json"
+PATH_MONTHS = "data/months.json"
+    
 # ================== Helpers ==================
 def fetch_json(need: str):
     """Fetch JSON data from mftplus calendar API"""
@@ -87,7 +90,6 @@ save_json(PATH_DEPARTMENTS, departments)
 print(f"✔ Saved {len(departments)} departments to {PATH_DEPARTMENTS}")
 
 # ================== Months ==================
-PATH_MONTHS = "data/months.json"
 
 months_raw = fetch_json("month")
 months = normalize_list(months_raw)
@@ -109,7 +111,6 @@ save_json(PATH_MONTHS, dataset_months)
 print(f"✔ Saved {len(dataset_months)} months to {PATH_MONTHS}")
 
 # ================== Groups ==================
-PATH_GROUPS = "data/groups.json"
 
 def fetch_groups_by_department(department_id: str):
     url = f"{BASE_URL}?need=group"
@@ -164,7 +165,6 @@ save_json(PATH_GROUPS, groups)
 print(f"✔ Saved {len(groups)} groups to {PATH_GROUPS}")
 
 # ================== Courses ==================
-PATH_COURSES = "data/courses.json"
 
 def fetch_courses_by_group(group_id: str):
     url = f"{BASE_URL}?need=course"
