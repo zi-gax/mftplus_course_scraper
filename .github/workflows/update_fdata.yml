@@ -1,9 +1,9 @@
 name: MFTPlus Full Courses Scraper
 
 on:
-  # Run once per day (03:00 UTC)
+  # Run once per day (02:00 UTC)
   schedule:
-     - cron: '0 3 */5 * *'
+     - cron: '0 2 */5 * *'
 
   # Manual trigger
   workflow_dispatch:
@@ -37,7 +37,7 @@ jobs:
       # ---------------- Run scraper ----------------
       - name: Run full courses scraper
         run: |
-          python scrap_full_courses_data.py
+          python courses-data/scrap_full_courses_data.py
 
       # ---------------- Commit & Push if changed ----------------
       - name: Commit & Push only if changed
@@ -46,7 +46,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Add output files (اسم فایل JSON خودت)
-          git add *.json || true
+          git add courses-data/*.json || true
 
           # Commit only if there are changes
           if ! git diff --cached --quiet; then

@@ -1,4 +1,4 @@
-name: MFTPlus Params Updater
+name: MFTPlus Filter Params Updater
 
 on:
   # Run every 5 days at 1:00 AM
@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Params update
         run: |
-          python data/update_params.py
+          python filterparam-data/update_params.py
 
       - name: Commit & Push only if changed
         run: |
@@ -40,12 +40,12 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Stage updated files
-          git add data/*.json
+          git add filterparam-data/*.json
           git add COURSE_LOG.md || true
 
           # Commit & push only if there are changes
           if ! git diff --cached --quiet; then
-            git commit -m "🆕 Automated update of MFTPlus Params [skip ci]"
+            git commit -m "🆕 Automated update of MFTPlus Filter  Params [skip ci]"
             git push
           else
             echo "No changes to commit"
