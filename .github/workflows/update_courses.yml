@@ -28,8 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install aiohttp pandas jdatetime
 
-      - name: Run course updater
-        run: python update_courses.py --all
+
 
       - name: Run norm intent script
         run: |
@@ -43,6 +42,7 @@ jobs:
 
           git add mftplus_courses.csv
           git add mftplus_courses.json
+          git add courses_norm_intent.csv
           git add COURSE_LOG.md
 
           # فقط اگر تغییر وجود داشت commit و push انجام شود
