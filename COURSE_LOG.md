@@ -3265,3 +3265,125 @@
 - [Programming with Python](https://mftplus.com/lesson/5679/Programming-with-Python?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
 </details>
 </details>
+
+<details><summary>📊 Sync 2026-02-25 📈(54) 📉(58) ♻️(0)</summary>
+
+<details><summary>📈 New (54)</summary>
+
+- [دوره جامع نرم افزار Arc GIS](https://mftplus.com/lesson/5348/دوره-جامع-نرم-افزار-Arc-GIS?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ICDL 2021 Level 1](https://mftplus.com/lesson/5571/ICDL-2021-Level-1?refp=%D9%88%D9%86%DA%A9) | ونک
+- [طراحی مکانیکی به کمک SOLIDWORKS I](https://mftplus.com/lesson/153718144/طراحی-مکانیکی-به-کمک-SOLIDWORKS-I?refp=%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1) | اسلامشهر
+- [Network+](https://mftplus.com/lesson/131612129/Network+?refp=%D9%88%D9%86%DA%A9) | ونک
+- [MCSA PACK 2025](https://mftplus.com/lesson/6364/MCSA-PACK-2025?refp=%D9%88%D9%86%DA%A9) | ونک
+- [ICDL Pack 2021](https://mftplus.com/lesson/5575/ICDL-Pack-2021?refp=%D8%B4%D9%87%D8%B1%D9%82%D8%AF%D8%B3) | شهرقدس
+- [Programming with Python](https://mftplus.com/lesson/5679/Programming-with-Python?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
+- [Microsoft Office Excel 2021 Expert](https://mftplus.com/lesson/5619/Microsoft-Office-Excel-2021-Expert?refp=%D9%88%D9%86%DA%A9) | ونک
+- [موشن گرافیک](https://mftplus.com/lesson/3064/موشن-گرافیک?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [دوره جامع ساخت انیمیشن دوبعدی و سه بعدی](https://mftplus.com/lesson/6146/دوره-جامع-ساخت-انیمیشن-دوبعدی-و-سه-بعدی?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [موشن گرافیک](https://mftplus.com/lesson/3064/موشن-گرافیک?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [فتوشاپ نسخه مقدماتی تا پیشرفته](https://mftplus.com/lesson/431314130/فتوشاپ-نسخه-مقدماتی-تا-پیشرفته?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [گریم متعادل سازی](https://mftplus.com/lesson/341514125/گریم-متعادل-سازی?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [فتوشاپ و ایلاستریتور](https://mftplus.com/lesson/431312124/فتوشاپ-و-ایلاستریتور?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [فتوشاپ و ایلاستریتور](https://mftplus.com/lesson/431312124/فتوشاپ-و-ایلاستریتور?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [Microsoft Office Excel 2021](https://mftplus.com/lesson/5578/Microsoft-Office-Excel-2021?refp=%D9%88%D9%86%DA%A9) | ونک
+- [تلفیقی Word+Excel 2021](https://mftplus.com/lesson/5976/تلفیقی-Word+Excel-2021?refp=%D9%88%D9%86%DA%A9) | ونک
+- [فتوشاپ نسخه مقدماتی تا پیشرفته](https://mftplus.com/lesson/431314130/فتوشاپ-نسخه-مقدماتی-تا-پیشرفته?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [دوره جامع ساخت انیمیشن دوبعدی و سه بعدی](https://mftplus.com/lesson/6146/دوره-جامع-ساخت-انیمیشن-دوبعدی-و-سه-بعدی?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [عکاسی دیجیتال (آنلاین)](https://mftplus.com/lesson/3710/عکاسی-دیجیتال-(آنلاین)?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [کارگاه عکاسی پرتره](https://mftplus.com/lesson/431213158/کارگاه-عکاسی-پرتره?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [گریم نامتعادل سازی](https://mftplus.com/lesson/341514127/گریم-نامتعادل-سازی?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [عکاسی دیجیتال](https://mftplus.com/lesson/4919/عکاسی-دیجیتال?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [نازکدوزی زنانه](https://mftplus.com/lesson/411414164/نازکدوزی-زنانه?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
+- [موشن گرافیک](https://mftplus.com/lesson/3064/موشن-گرافیک?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [Python Programming Advanced](https://mftplus.com/lesson/5681/Python-Programming-Advanced?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
+- [طراحی نقاشی مقدماتی](https://mftplus.com/lesson/6018/طراحی-نقاشی-مقدماتی?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [مقدمه ای بر الگوریتم و برنامه نویسی](https://mftplus.com/lesson/132017130/مقدمه-ای-بر-الگوریتم-و-برنامه-نویسی?refp=%D8%A8%D8%A7%D9%85%D9%84%D9%86%D8%AF%28%D8%B4%D9%85%D8%A7%D9%84%20%D8%BA%D8%B1%D8%A8%29) | باملند(شمال غرب)
+- [Java SE 8 Programming](https://mftplus.com/lesson/132018136/Java-SE-8-Programming?refp=%D9%88%D9%86%DA%A9) | ونک
+- [Android pack With Kotlin](https://mftplus.com/lesson/3990/Android-pack-With-Kotlin?refp=%D9%88%D9%86%DA%A9) | ونک
+- [C# Programming](https://mftplus.com/lesson/132027124/C#-Programming?refp=%D9%88%D9%86%DA%A9) | ونک
+- [موتور بازی سازی یونیتی](https://mftplus.com/lesson/4610/موتور-بازی-سازی-یونیتی?refp=%D9%88%D9%86%DA%A9) | ونک
+- [SQL Server 2022 Database Development](https://mftplus.com/lesson/5316/SQL-Server-2022-Database-Development?refp=%D9%88%D9%86%DA%A9) | ونک
+- [Programming with Python](https://mftplus.com/lesson/5679/Programming-with-Python?refp=%D9%88%D9%86%DA%A9) | ونک
+- [Python Programming Advanced](https://mftplus.com/lesson/5681/Python-Programming-Advanced?refp=%D9%88%D9%86%DA%A9) | ونک
+- [Programming with Python](https://mftplus.com/lesson/5679/Programming-with-Python?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
+- [طراحی داشبوردهای هوش تجاری با PowerBI](https://mftplus.com/lesson/6057/طراحی-داشبوردهای-هوش-تجاری-با-PowerBI?refp=%D9%88%D9%86%DA%A9) | ونک
+- [Linux Essentials + LPIC1(101-102)](https://mftplus.com/lesson/4595/Linux-Essentials-+-LPIC1(101-102)?refp=%D9%88%D9%86%DA%A9) | ونک
+- [Spring](https://mftplus.com/lesson/5886/Spring?refp=%D9%88%D9%86%DA%A9) | ونک
+- [PHP & MYSQL Web Development](https://mftplus.com/lesson/5352/PHP-&-MYSQL-Web-Development?refp=%D9%88%D9%86%DA%A9) | ونک
+- [Python Web Development With Django](https://mftplus.com/lesson/4046/Python-Web-Development-With-Django?refp=%D9%88%D9%86%DA%A9) | ونک
+- [Data Analysis with Python](https://mftplus.com/lesson/5544/Data-Analysis-with-Python?refp=%D9%88%D9%86%DA%A9) | ونک
+- [Machine Learning with Python](https://mftplus.com/lesson/5546/Machine-Learning-with-Python?refp=%D9%88%D9%86%DA%A9) | ونک
+- [ICDL Pack 2021](https://mftplus.com/lesson/5575/ICDL-Pack-2021?refp=%D9%88%D9%86%DA%A9) | ونک
+- [ICDL 2021 Level 1](https://mftplus.com/lesson/5571/ICDL-2021-Level-1?refp=%D9%88%D9%86%DA%A9) | ونک
+- [ایلاستریتور](https://mftplus.com/lesson/431314131/ایلاستریتور?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [فیلم برداری با موبایل](https://mftplus.com/lesson/6520/فیلم-برداری-با-موبایل?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [عکاسی با موبایل](https://mftplus.com/lesson/6519/عکاسی-با-موبایل?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [Deep Learning with Python](https://mftplus.com/lesson/5542/Deep-Learning-with-Python?refp=%D9%88%D9%86%DA%A9) | ونک
+- [ورکشاپ تخصصی شکلات دست ساز](https://mftplus.com/lesson/3814/ورکشاپ-تخصصی-شکلات-دست-ساز?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+- [برنامه نویسی به زبان ++C](https://mftplus.com/lesson/132017134/برنامه-نویسی-به-زبان-++C?refp=%D8%B3%DB%8C%D8%AF%D8%AE%D9%86%D8%AF%D8%A7%D9%86) | سیدخندان
+- [کارگاه حقوق و دستمزد](https://mftplus.com/lesson/4274/کارگاه-حقوق-و-دستمزد?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [مقدمه ای بر الگوریتم و برنامه نویسی](https://mftplus.com/lesson/132017130/مقدمه-ای-بر-الگوریتم-و-برنامه-نویسی?refp=%D8%A8%D8%A7%D9%85%D9%84%D9%86%D8%AF%28%D8%B4%D9%85%D8%A7%D9%84%20%D8%BA%D8%B1%D8%A8%29) | باملند(شمال غرب)
+- [طراحی لباس تخصصی پیشرفته](https://mftplus.com/lesson/6319/طراحی-لباس-تخصصی-پیشرفته?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+</details>
+<details><summary>📉 Expired (58)</summary>
+
+- [Programming with Python](https://mftplus.com/lesson/5679/Programming-with-Python?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [Microsoft Office Word 2021](https://mftplus.com/lesson/5714/Microsoft-Office-Word-2021?refp=%D8%B3%DB%8C%D8%AF%D8%AE%D9%86%D8%AF%D8%A7%D9%86) | سیدخندان
+- [زبان انگلیسی A2.1](https://mftplus.com/lesson/231215282/زبان-انگلیسی-A2.1?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [PTE Preparation Course](https://mftplus.com/lesson/231222153/PTE-Preparation-Course?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [زبان انگلیسی B2.2](https://mftplus.com/lesson/231215292/زبان-انگلیسی-B2.2?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [آشپزی ملل](https://mftplus.com/lesson/4017/آشپزی-ملل?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [مبانی هوش مصنوعی برای نوجوانان](https://mftplus.com/lesson/6183/مبانی-هوش-مصنوعی-برای-نوجوانان?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [CCNA 200-301](https://mftplus.com/lesson/3742/CCNA-200-301?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [دوره جامع آزاد کار دیجیتال مارکتینگ](https://mftplus.com/lesson/5206/دوره-جامع-آزاد-کار-دیجیتال-مارکتینگ?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [الگوسازی به روش مولر](https://mftplus.com/lesson/4267/الگوسازی-به-روش-مولر?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [زبان انگلیسی B1.3](https://mftplus.com/lesson/231215288/زبان-انگلیسی-B1.3?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [ICDL Pack 2021](https://mftplus.com/lesson/5575/ICDL-Pack-2021?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [Wordpress & SEO PACK](https://mftplus.com/lesson/4669/Wordpress-&-SEO-PACK?refp=%D9%86%D8%A7%D8%B1%D9%85%DA%A9) | نارمک
+- [دوره طراحی رابط و تجربه کاربری (UI/UX)](https://mftplus.com/lesson/5605/دوره-طراحی-رابط-و-تجربه-کاربری-(UI/UX)?refp=%D9%86%D8%A7%D8%B1%D9%85%DA%A9) | نارمک
+- [برنامه نویسی به زبان ++C](https://mftplus.com/lesson/132017134/برنامه-نویسی-به-زبان-++C?refp=%D8%B3%DB%8C%D8%AF%D8%AE%D9%86%D8%AF%D8%A7%D9%86) | سیدخندان
+- [زبان انگلیسی A1.4](https://mftplus.com/lesson/231215278/زبان-انگلیسی-A1.4?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [برنامه نویسی مقدماتی با اسکرچ](https://mftplus.com/lesson/3370/برنامه-نویسی-مقدماتی-با-اسکرچ?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [زبان انگلیسی B2.3](https://mftplus.com/lesson/231215293/زبان-انگلیسی-B2.3?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [Linux Essentials + LPIC1(101-102)](https://mftplus.com/lesson/4595/Linux-Essentials-+-LPIC1(101-102)?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [حسابداری ویژه بازار کار](https://mftplus.com/lesson/3869/حسابداری-ویژه-بازار-کار?refp=%D8%A8%D8%A7%D9%85%D9%84%D9%86%D8%AF%28%D8%B4%D9%85%D8%A7%D9%84%20%D8%BA%D8%B1%D8%A8%29) | باملند(شمال غرب)
+- [دوره جامع نرم افزار Arc GIS](https://mftplus.com/lesson/5348/دوره-جامع-نرم-افزار-Arc-GIS?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [راینو در معماری](https://mftplus.com/lesson/391412135/راینو-در-معماری?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [باریستا](https://mftplus.com/lesson/3804/باریستا?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [ICDL سطح یک نوجوانان](https://mftplus.com/lesson/3587/ICDL-سطح-یک-نوجوانان?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [زبان انگلیسی A1.7](https://mftplus.com/lesson/2949/زبان-انگلیسی-A1.7?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [SQL Server 2022 Database Development](https://mftplus.com/lesson/5316/SQL-Server-2022-Database-Development?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
+- [PLC LOGO](https://mftplus.com/lesson/4611/PLC-LOGO?refp=%D8%A7%D9%84%D8%A8%D8%B1%D8%B2) | البرز
+- [زبان ترکی A1.3](https://mftplus.com/lesson/231813125/زبان-ترکی-A1.3?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [ورکشاپ تخصصی شکلات دست ساز](https://mftplus.com/lesson/3814/ورکشاپ-تخصصی-شکلات-دست-ساز?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+- [دوره جامع محاسبات ساختمان: طراحی اتصالات (ویژه سازه های فولادی)](https://mftplus.com/lesson/5772/دوره-جامع-محاسبات-ساختمان:-طراحی-اتصالات-(ویژه-سازه-های-فولادی)?refp=%D9%88%D9%86%DA%A9) | ونک
+- [طراحی نقاشی مقدماتی](https://mftplus.com/lesson/6018/طراحی-نقاشی-مقدماتی?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [ICDL سطح یک و دو نوجوانان](https://mftplus.com/lesson/191412126/ICDL-سطح-یک-و-دو-نوجوانان?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [طراحی پیشرفته](https://mftplus.com/lesson/191814124/طراحی-پیشرفته?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [مدیریت بازاریابی دیجیتال](https://mftplus.com/lesson/4375/مدیریت-بازاریابی-دیجیتال?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [رباتیک مقدماتی](https://mftplus.com/lesson/191712130/رباتیک-مقدماتی?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
+- [طراحی نقاشی مقدماتی](https://mftplus.com/lesson/6018/طراحی-نقاشی-مقدماتی?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [زبان فرانسه A1.1](https://mftplus.com/lesson/231312176/زبان-فرانسه-A1.1?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [زبان انگلیسی A2.2](https://mftplus.com/lesson/231215283/زبان-انگلیسی-A2.2?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [نازکدوزی زنانه](https://mftplus.com/lesson/411414164/نازکدوزی-زنانه?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
+- [سبک شناسی](https://mftplus.com/lesson/391212167/سبک-شناسی?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [برنامه های  ویندوز فرم و WPF](https://mftplus.com/lesson/191415140/برنامه-های-ویندوز-فرم-و-WPF?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [تلفیقی Word+Excel 2021](https://mftplus.com/lesson/5976/تلفیقی-Word+Excel-2021?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [طراحی نقاشی مقدماتی](https://mftplus.com/lesson/6018/طراحی-نقاشی-مقدماتی?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [عکاسی دیجیتال نوجوان](https://mftplus.com/lesson/4614/عکاسی-دیجیتال-نوجوان?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [طراحی لباس تخصصی پیشرفته](https://mftplus.com/lesson/6319/طراحی-لباس-تخصصی-پیشرفته?refp=%D9%88%D9%86%DA%A9) | ونک
+- [زبان فرانسه A1.1](https://mftplus.com/lesson/231312176/زبان-فرانسه-A1.1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [زبان انگلیسی A1.1](https://mftplus.com/lesson/231215275/زبان-انگلیسی-A1.1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [طراحی داشبوردهای هوش تجاری با PowerBI](https://mftplus.com/lesson/6057/طراحی-داشبوردهای-هوش-تجاری-با-PowerBI?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+- [ICDL 2021 Level 1](https://mftplus.com/lesson/5571/ICDL-2021-Level-1?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [زبان انگلیسی B1.5](https://mftplus.com/lesson/231215290/زبان-انگلیسی-B1.5?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
+- [زبان اسپانیایی A1.1](https://mftplus.com/lesson/231612153/زبان-اسپانیایی-A1.1?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+- [حسابداری ویژه بازار کار](https://mftplus.com/lesson/3869/حسابداری-ویژه-بازار-کار?refp=%D8%B4%D9%87%D8%B1%D9%82%D8%AF%D8%B3) | شهرقدس
+- [MCSA PACK 2025](https://mftplus.com/lesson/6364/MCSA-PACK-2025?refp=%D9%88%D9%86%DA%A9) | ونک
+- [بافت موی پایه](https://mftplus.com/lesson/5704/بافت-موی-پایه?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
+- [زبان آلمانی A1.1](https://mftplus.com/lesson/231412143/زبان-آلمانی-A1.1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [زبان اسپانیایی A1.1](https://mftplus.com/lesson/231612153/زبان-اسپانیایی-A1.1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [طراحی معماری و دکوراسیون داخلی متوسط](https://mftplus.com/lesson/391212126/طراحی-معماری-و-دکوراسیون-داخلی-متوسط?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [درب اتوماتیک و کرکره برقی](https://mftplus.com/lesson/6090/درب-اتوماتیک-و-کرکره-برقی?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+</details>
+</details>
