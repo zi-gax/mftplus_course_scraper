@@ -1,0 +1,11 @@
+CDI
+JSF
+Spring Boot:
+Ioc
+Spring Annotations
+Restful Webservices
+Spring web mvc
+Spring data jpa hibernate
+Spring security
+Thymeleaf
+Microservices
